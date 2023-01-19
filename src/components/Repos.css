@@ -1,0 +1,12 @@
+.RepoContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  margin-left: 5%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+.paginate {
+  margin-left: 40%;
+  margin-top: 5%;
+}
